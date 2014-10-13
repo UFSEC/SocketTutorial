@@ -44,9 +44,17 @@ A Socket Tutorial in Python and Java. While I've included files for setting up s
 </ol>
 
 ####References
+<ul>
+<li>
 Python socket documentation:
 	https://docs.python.org/2/library/socket.html
+</li>
+<li>
 Java socket tutorial:
 	http://docs.oracle.com/javase/tutorial/networking/sockets/
+</li>
+<li>
 Java socket API:
 	http://docs.oracle.com/javase/7/docs/api/java/net/Socket.html
+</li>
+</ul>
