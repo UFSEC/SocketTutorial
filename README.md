@@ -33,8 +33,10 @@ A Socket Tutorial in Python and Java. While I've included files for setting up s
 <li>Sockets and Threads</li>
 <li>Example: GUIChat</li>
 <li>Example: Chess (https://github.com/koceskik/Chess.git)
-	ObjectOutputStream and ObjectInputStream (see src/networking/Connection.java)
-	Threading: see Baker's presentation next week
+	<ul>
+	<li>ObjectOutputStream and ObjectInputStream (see src/networking/Connection.java)</li>
+	<li>Threading: see Baker's presentation next week</li>
+	</ul>
 </li>
 
 </ol>
