@@ -30,17 +30,19 @@ A Socket Tutorial in Python and Java. While I've included files for setting up s
 </li>
 <li>Sending and receiving data to/from a host: chat service
 </li>
-<li>More with Sockets</li>
+<li>More with Sockets
 	<ul>
 	<li>Threading: see Baker's presentation next week</li>
 	<li>ObjectOutputStream and ObjectInputStream</li>
 	</ul>
-<li>Examples</li>
+</li>
+<li>Examples
 	<ul>
 	<li>GUI Chat (see 4. ChatGUI directory)</li>
 	<li>Chess (https://github.com/koceskik/Chess.git)</li>
 	<li>Conway's Game of Life (https://github.com/devanp92/Concurrent-Game-of-Life)</li>
 	</ul>
+</li>
 </ol>
 
 ####References
