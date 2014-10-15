@@ -50,7 +50,7 @@ public class client {
 		}
 		
 		try {
-			stdIn.close()
+			stdIn.close();
 			out.close();
 			in.close();
 			s.close();
