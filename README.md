@@ -2,6 +2,8 @@ SocketTutorial
 ==============
 A Socket Tutorial in Python and Java. While I've included files for setting up servers in Python and Java, and clients in Python and Java, I intend to only go over a Python server with a Java client. Feel free to play with these as you will.
 
+*Read the corresponding web version [here](http://ufsdc.github.io/articles/2014/10/15/network-programming/).*
+
 ##Tutorial:
 <ol>
 
